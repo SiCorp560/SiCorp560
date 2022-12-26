@@ -1,13 +1,11 @@
-## My name is
-# Simon Corpuz
+## My name is Simon Corpuz
+I am a junior at Carnegie Mellon University majoring in Information Systems, with minors in Game Design and Human-Computer Interaction. I have experience creating databases and developing video games through various courses at CMU.
 
-### I am a junior at Carnegie Mellon University majoring in Information Systems, with minors in Game Design and Human-Computer Interaction
-
-##### 🔭 I’m currently searching for an **__internship for summer 2023__**
-- 🌱 I’m currently learning **__data analysis__** and **__game development__** skills
-- 💬 Ask me about **__video games__** and **__anime__**
+##### 🔭 I’m currently searching for an internship for summer 2023
+- 🌱 I’m currently learning **_data analysis_** and **_game development_** skills
+- 💬 Ask me about **_video games_** and **_anime_**
 - 📫 How to reach me: scorpuz@andrew.cmu.edu
-- 😄 Pronouns: he/him
+- 😄 Pronouns: **_he/him_**
 - ⚡ Fun fact: I like to draw in my spare time
 
 <!--
